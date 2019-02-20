@@ -1,0 +1,7 @@
+.modal-dialog-center {
+    margin-top: 35% !important;
+}
+
+.modal-open {
+    overflow: scroll !important;
+}
